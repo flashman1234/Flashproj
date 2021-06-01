@@ -71,7 +71,7 @@
 		2C38DC3F2666266A00D1BA5E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2C38DCD826662C8B00D1BA5E /* FlashprojCore.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = FlashprojCore.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C38DCE02666333200D1BA5E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		2C38DCE12666336500D1BA5E /* Chanelog.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Chanelog.md; sourceTree = "<group>"; };
+		2C38DCE12666336500D1BA5E /* Changelog.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Changelog.md; sourceTree = "<group>"; };
 		323140452AE3D444D13843DA /* Pods-FlashprojTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FlashprojTests.release.xcconfig"; path = "Target Support Files/Pods-FlashprojTests/Pods-FlashprojTests.release.xcconfig"; sourceTree = "<group>"; };
 		60DC98FC0F1D3EF153C05A50 /* Pods-Flashproj.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flashproj.debug.xcconfig"; path = "Target Support Files/Pods-Flashproj/Pods-Flashproj.debug.xcconfig"; sourceTree = "<group>"; };
 		77968AA57F3B7AD060A25247 /* Pods-Flashproj-FlashprojUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flashproj-FlashprojUITests.debug.xcconfig"; path = "Target Support Files/Pods-Flashproj-FlashprojUITests/Pods-Flashproj-FlashprojUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -181,7 +181,7 @@
 			isa = PBXGroup;
 			children = (
 				2C38DCE02666333200D1BA5E /* README.md */,
-				2C38DCE12666336500D1BA5E /* Chanelog.md */,
+				2C38DCE12666336500D1BA5E /* Changelog.md */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
