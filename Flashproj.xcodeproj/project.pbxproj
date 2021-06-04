@@ -207,6 +207,7 @@
 			buildConfigurationList = 2C38DC422666266A00D1BA5E /* Build configuration list for PBXNativeTarget "Flashproj" */;
 			buildPhases = (
 				3CFC193E3861EB8CD4571B19 /* [CP] Check Pods Manifest.lock */,
+				2C38DCE326665B8000D1BA5E /* Swift Lint */,
 				2C38DC142666266A00D1BA5E /* Sources */,
 				2C38DC152666266A00D1BA5E /* Frameworks */,
 				2C38DC162666266A00D1BA5E /* Resources */,
@@ -329,6 +330,24 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		2C38DCE326665B8000D1BA5E /* Swift Lint */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Swift Lint";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if which swiftlint >/dev/null; then\n  swiftlint\nelse\n  echo \"warning: SwiftLint not installed, download from https://github.com/realm/SwiftLint\"\nfi\n";
+		};
 		3CFC193E3861EB8CD4571B19 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

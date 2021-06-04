@@ -52,3 +52,4 @@ xconfig setup
 gitflow/branching
 
 
+bundler
