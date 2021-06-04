@@ -1,0 +1,5 @@
+Pods/Pods.xcodeproj/xcuserdata/michalthompson.xcuserdatad/xcschemes/SwiftLint.xcscheme
+Pods/SwiftLint/LICENSE
+Pods/SwiftLint/swiftlint
+Pods/Target Support Files/SwiftLint/SwiftLint.debug.xcconfig
+Pods/Target Support Files/SwiftLint/SwiftLint.release.xcconfig
